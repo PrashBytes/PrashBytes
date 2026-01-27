@@ -1,7 +1,16 @@
+
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
-## About Me 🤗
-i m currently persuing the btech degree in cse with iot <br>🤝 I’m looking to collaborate on<br>Beginner-friendly web, IoT, or open-source projects where I can learn, contribute, and grow as a developer.<br>💛 I’m looking for help with<br>Enhancing backend development practices, project architecture, and real-world problem-solving approaches.<br>🌱 I’m currently learning<br>React, HTML, CSS, JavaScript, Node.js, MongoDB, MySQL, Python, Java, and C — with a focus on improving both frontend and backend fundamentals.<br>💬 Ask me about<br>Web development basics, beginner projects, learning roadmaps, and how I’m combining IoT concepts with software development.<br>⚡ Fun fact<br>I enjoy experimenting with new technologies and often build small projects just to explore how things work.
+
+
+## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+i m currently persuing the btech degree in cse with iot <br> <img 
+  src="https://github.com/user-attachments/assets/95ddbf2d-7e61-4f7e-a9de-bc5430cc5888"
+  width="300"
+  align="right"
+/>🤝 I’m looking to collaborate on<br>Beginner-friendly web, IoT, or open-source projects where I can learn, contribute, and grow as a developer.<br>💛 I’m looking for help with<br>Enhancing backend development practices, project architecture, and real-world problem-solving approaches.<br>🌱 I’m currently learning<br>React, HTML, CSS, JavaScript, Node.js, MongoDB, MySQL, Python, Java, and C — with a focus on improving both frontend and backend fundamentals.<br>💬 Ask me about<br>Web development basics, beginner projects, learning roadmaps, and how I’m combining IoT concepts with software development.<br>⚡ Fun fact<br>I enjoy experimenting with new technologies and often build small projects just to explore how things work.
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.prashhh.__) 
