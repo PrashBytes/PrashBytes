@@ -14,7 +14,7 @@ i m currently persuing the btech degree in cse with iot <br> <img
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.prashhh.__) 
-[![Linkedin Badge](https://img.shields.io/badge/-@AkashRajpurohit-0e76a8?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/prashanta-sarmah-bordoloi-6a98312b0/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashanta-sarmah-bordoloi-6a98312b0/)](https://www.linkedin.com/in/prashanta-sarmah-bordoloi-6a98312b0/)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/YakAdorable669)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantasarmahbordoloi@gmail.com) 
 
