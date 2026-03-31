@@ -10,7 +10,9 @@ i m currently persuing the btech degree in cse with iot <br> <img
   align="right"
 />🤝 I’m looking to collaborate on<br>Beginner-friendly web, IoT, or open-source projects where I can learn, contribute, and grow as a developer.<br>💛 I’m looking for help with<br>Enhancing backend development practices, project architecture, and real-world problem-solving approaches.<br>🌱 I’m currently learning<br>React, HTML, CSS, JavaScript, Node.js, MongoDB, MySQL, Python, Java, and C — with a focus on improving both frontend and backend fundamentals.<br>💬 Ask me about<br>Web development basics, beginner projects, learning roadmaps, and how I’m combining IoT concepts with software development.<br>⚡ Fun fact<br>I enjoy experimenting with new technologies and often build small projects just to explore how things work.
 
+## Certifications
 
+[![Azure Fundamentals](./microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/fa23e0cc-e6ee-46bf-b993-d2d10015ca7b/public_url)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.prashhh.__) 
